@@ -1,10 +1,9 @@
 # 🧮 Simple Calculator
 
-A basic calculator built using **HTML, CSS, and JavaScript**. It supports arithmetic operations, percentage, delete, and clear functions.
+A basic calculator built using **HTML, CSS, and JavaScript**. It supports arithmetic operations, delete, and clear functions.
 
 ## 🚀 Features
 - Add, Subtract, Multiply, Divide  
-- Percentage (%) support  
 - AC (clear) & DEL (delete last digit)  
 - Clean UI using CSS Grid  
 - Fully responsive  
@@ -15,7 +14,7 @@ A basic calculator built using **HTML, CSS, and JavaScript**. It supports arithm
 - `script.js` – Calculator logic  
 
 ## 📦 How to Run
-Just open `https://987193.github.io/CodeAlpha_Calculator/` in any browser.  
+Just open https://987193.github.io/CodeAlpha_Calculator/  
 
 
 ## 📜 License
